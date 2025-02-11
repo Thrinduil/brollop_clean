@@ -1,10 +1,20 @@
 /* General styles */
 body {
-    font-family: 'Arial', sans-serif;
     background-color: #F7ECE1;
     margin: 0;
     padding: 0;
     color: #011936;
+    font-family: "Merriweather Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.dancing-script-font {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .container {
@@ -26,10 +36,13 @@ body {
 .navbar a {
     text-decoration: none;
     color: #177E89;
-    font-weight: bold;
     padding: 10px 15px;
     border-radius: 5px;
     transition: background 0.3s;
+    font-family: "Ruda", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .navbar a:hover {
@@ -45,8 +58,12 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.card h1, .card h2 {
+.card h1 {
     color: #177E89;
+    font-family: "Ruda", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .card h2 {
@@ -75,26 +92,18 @@ body {
     color: #B370B0;
     margin: 20px 0;
     font-size: xxx-large;
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .welcome h2 {
     color: #177E89;
     margin: 5px 0;
     font-size: xx-large;
-}
-
-/* Button Styling */
-button {
-    background-color: #8a6f60;
-    color: white;
-    border: none;
-    padding: 15px 20px;
-    font-size: 16px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s;
-}
-
-button:hover {
-    background-color: #72584a;
+    font-family: "Ruda", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
