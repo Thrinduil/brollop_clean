@@ -109,4 +109,9 @@ body {
     text-decoration: underline;
 }
 
+.card li {
+    list-style: circle;
+    margin: 5px;
+}
+
 
