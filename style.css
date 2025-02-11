@@ -47,7 +47,7 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #72584a;
+    text-decoration: underline;
 }
 
 /* Welcome Section */
