@@ -8,6 +8,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+    font-size: 100%;
 }
 
 .container {
@@ -107,11 +108,12 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    font-size: 200%;
 }
 
 .card h2 {
     color: #1EA0AE;
-    font-size: large;
+    font-size: 150%;
 }
 
 .card a {
@@ -144,7 +146,7 @@ body {
 }
 
 .image-container figcaption {
-    font-size: 1.5rem; /* Stor text */
+    font-size: 150%; /* Stor text */
     color: #B370B0; /* Samma lila ton */
     margin-top: 10px;
 }
