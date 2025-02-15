@@ -28,7 +28,7 @@ body {
 }
 
 .navbar a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #177E89;
     padding: 10px;
     border-radius: 5px;
@@ -38,10 +38,6 @@ body {
     font-weight: 700;
     font-style: normal;
     font-size: 150%;
-}
-
-.navbar a:hover {
-    text-decoration: underline;
 }
 
 /* Welcome Section */
@@ -117,7 +113,7 @@ body {
 
 .card a {
     color: #B370B0;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: bold;
 }
 
