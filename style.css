@@ -75,7 +75,7 @@ body {
 .card {
     display: flex;
     flex-direction: row;
-    align-items: center; /* Aligns text and image vertically */
+    align-items: stretch; /* Aligns text and image vertically */
     gap: 10px;
     background: white;
     padding: 20px;
@@ -87,10 +87,12 @@ body {
 
 .card-text {
     flex: 1.618;
+    width: 100%;
 }
 
 .card-image {
     flex: 1;
+    width: 100%;
 }
 
 .card-image img {
