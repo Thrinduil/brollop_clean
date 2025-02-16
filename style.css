@@ -44,7 +44,7 @@ body {
 .welcome {
     text-align: center;
     color: #8a6f60;
-    padding: 40px;
+    padding: 20px;
 }
 
 .welcome h1 {
@@ -65,6 +65,11 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+}
+
+.welcome h3 {
+    color: #8a6f60;
+    font-size: 120%;
 }
 
 /* Card Style */
