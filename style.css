@@ -20,9 +20,9 @@ body {
 /* Navigation Bar */
 .navbar {
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap; /* Tillåter att länkar går på två rader */
-    background-color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 20px;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 20px;
