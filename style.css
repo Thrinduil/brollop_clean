@@ -147,8 +147,8 @@ body {
 }
 
 .image-container figcaption {
-    font-size: 150%; /* Stor text */
-    color: #B370B0; /* Samma lila ton */
+    font-size: 100%;
+    color: #177E89;
     margin-top: 10px;
 }
 
