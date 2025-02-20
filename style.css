@@ -113,6 +113,7 @@ body {
 .card h2 {
     color: #996515;
     font-size: 150%;
+    margin-bottom: -10px;
 }
 
 .card a {
