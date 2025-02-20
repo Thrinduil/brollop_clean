@@ -43,12 +43,11 @@ body {
 /* Welcome Section */
 .welcome {
     text-align: center;
-    color: #8a6f60;
     padding: 20px;
 }
 
 .welcome h1 {
-    color: #B370B0;
+    color: #996515;
     margin: 20px 0;
     font-size: 500%;
     font-family: "Dancing Script", serif;
@@ -68,7 +67,7 @@ body {
 }
 
 .welcome h3 {
-    color: #8a6f60;
+    color: #996515;
     font-size: 120%;
 }
 
@@ -112,7 +111,7 @@ body {
 }
 
 .card h2 {
-    color: #1EA0AE;
+    color: #996515;
     font-size: 150%;
 }
 
@@ -147,7 +146,7 @@ body {
 
 .image-container figcaption {
     font-size: 100%;
-    color: #177E89;
+    color: #996515;
     margin-top: 10px;
 }
 
