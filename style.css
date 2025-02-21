@@ -30,7 +30,7 @@ body {
 
 .navbar a {
     text-decoration: underline;
-    color: #B370B0;
+    color: #8E668C;
     padding: 10px;
     border-radius: 5px;
     font-family: "Ruda", serif;
@@ -117,7 +117,7 @@ body {
 }
 
 .card a {
-    color: #B370B0;
+    color: #8E668C;
     text-decoration: underline;
     font-weight: bold;
 }
