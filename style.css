@@ -48,11 +48,11 @@ body {
 
 .welcome h1 {
     color: #996515;
-    margin: 20px 0;
-    font-size: 500%;
-    font-family: "Dancing Script", serif;
+    margin: 0;
+    font-size: 800%;
+    font-family: "Allison", serif;
     font-optical-sizing: auto;
-    font-weight: 700;
+    font-weight: 400;
     font-style: normal;
 }
 
